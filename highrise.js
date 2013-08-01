@@ -188,7 +188,7 @@ Plugin.prototype.interaction = function(item,i){
 				'top':ary.y
 			})
 			$this.cover.css({
-				'transition':'opacity .2s',
+				'transition':'opacity .4s',
 				'z-index':$this.config.z,
 				'opacity':1
 			}).promise().done(function(){
