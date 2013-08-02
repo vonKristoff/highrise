@@ -1,14 +1,15 @@
 {
     "name": "highrise",
-    "title": "highrise",
-    "description": "highrise",
+    "title": "High-Rise, a lightbox like effect - lifting your content into focus",
+    "description": "Excellent for Blog posts or Galleries. Works like a lighbox - apart from this is triggered by a rollover event. Your content is brought to the top, and the rest is overlayed by a shadow, highlighting the content the user is interested in. Comes with a few styling options - including gradients",
     "keywords": [
-        "css3",
         "linear-gradient",
         "effect",
         "jquery",
         "lightbox",
-        "shadowbox"
+        "shadowbox",
+        "css",
+        "gradient"
     ],
     "version": "0.1.0",
     "author": {
